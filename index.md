@@ -7,7 +7,7 @@ layout: default
 
 # Welcome stranger
 
-### Uh.. seems this blog is progress
+### Uh.. seems this blog is in progress
 
 ![hacking]({% link assets/hacking_kittens.jpg %})  
 ## ..stay tuned! 
