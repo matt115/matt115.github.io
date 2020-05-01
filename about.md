@@ -29,8 +29,6 @@ If you're interested in getting in touch with me:
 .. Cya!  
 k0z4c
 
-<script src="https://www.hackthebox.eu/badge/14652"></script>
-
 [linkedin_link]: https://it.linkedin.com/in/matteo-sondrio-2657b159
 
 
