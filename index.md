@@ -7,10 +7,16 @@ layout: default
 
 # Welcome stranger
 
-### Uh.. seems this blog is in progress
+
+## HackTheBox
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+[here]({% link about.md  %}) some info about me.
 
 ![hacking]({% link assets/hacking_kittens.jpg %})  
-## ..stay tuned! 
-
-In the meanwhile, [here]({% link about.md  %}) the presentations.
-
