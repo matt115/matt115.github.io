@@ -8,6 +8,8 @@ layout: default
 # Welcome stranger
 
 
+[INFO] Have a good summer (:
+ 
 ## HackTheBox
 <ul>
   {% for post in site.posts %}
